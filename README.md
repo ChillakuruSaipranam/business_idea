@@ -4,7 +4,7 @@ An interactive Streamlit dashboard analyzing economic opportunities across US ZI
 
 Websitelink:https://biz-zip.onrender.com/
 
-🔗 [View Project on GitHub](https://github.com/ChillakuruSaipranam/crispy-chainsaw.git)
+🔗 [View Project on GitHub](https://github.com/ChillakuruSaipranam/business_idea.git)
 
 ## Features
 - Interactive map visualization of AGI by state
