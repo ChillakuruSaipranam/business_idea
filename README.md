@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard analyzing economic opportunities across US ZIP codes using IRS, Census Bureau, and Business Statistics data.
 
-Websitelink:https://biz-zip.onrender.com/
+Websitelink:https://bis-zip.onrender.com/
 
 🔗 [View Project on GitHub](https://github.com/ChillakuruSaipranam/business_idea.git)
 
